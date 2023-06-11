@@ -1,0 +1,11 @@
+{
+    "name": "soukar/calculator",
+    "description": "Test Packages",
+    "authors": [
+        {
+            "name": "mohammad soukar",
+            "email": "mohammadsoukar2@gmail.com"
+        }
+    ],
+    "require": {}
+}
